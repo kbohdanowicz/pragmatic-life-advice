@@ -1,1 +1,1 @@
-# life-hacks
+# Pragmatic Life Advice
